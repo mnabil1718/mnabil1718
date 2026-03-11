@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-a6e3a1?style=for-the-badge&labelColor=1e1e2e" />
 </div>
 
-## `$ whoami`
+## About Me
 ```bash
 Name     : Muhammad Nabil
 Location : Indonesia 🇮🇩
@@ -33,7 +33,7 @@ Status   : Open for new projects & opportunities
 ```
 
 
-## `$ cat about.md`
+## What I do
 
 - Building full-stack web projects
 - Currently learning C and diving into low-level systems programming
@@ -43,7 +43,7 @@ Status   : Open for new projects & opportunities
 
 
 
-## `$ ls ~/tech-stack`
+## Tech Stack
 
 ### 🌐 Languages
 <div>
@@ -80,7 +80,7 @@ Status   : Open for new projects & opportunities
 
 
 
-## `$ gh stats`
+## Github Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnabil1718&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&ring_color=cba6f7" />
@@ -93,7 +93,7 @@ Status   : Open for new projects & opportunities
 
 
 
-## `$ cat contribution-graph`
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnabil1718&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=fab387&area=true&area_color=cba6f7&hide_border=true" />
