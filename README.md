@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-a6e3a1?style=for-the-badge&labelColor=1e1e2e" />
 </div>
 
----
-
 ## `$ whoami`
 ```bash
 Name     : Muhammad Nabil
@@ -34,7 +32,6 @@ Theme    : Catppuccin Mocha
 Status   : Open for new projects & opportunities
 ```
 
----
 
 ## `$ cat about.md`
 
@@ -44,7 +41,7 @@ Status   : Open for new projects & opportunities
 - 📝 Using **Neovim**, sometimes VSCode tho
 - 👯 Looking to collaborate on new challenging projects
 
----
+
 
 ## `$ ls ~/tech-stack`
 
@@ -81,7 +78,7 @@ Status   : Open for new projects & opportunities
   <img src="https://img.shields.io/badge/Catppuccin-CBA6F7?style=for-the-badge&logo=catppuccin&logoColor=1e1e2e" />
 </div>
 
----
+
 
 ## `$ gh stats`
 
@@ -94,7 +91,7 @@ Status   : Open for new projects & opportunities
   <img src="https://streak-stats.demolab.com?user=mnabil1718&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=CBA6F7&fire=FAB387&currStreakLabel=CBA6F7" />
 </div>
 
----
+
 
 ## `$ cat contribution-graph`
 
