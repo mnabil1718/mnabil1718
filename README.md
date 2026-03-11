@@ -26,7 +26,7 @@ Name     : Muhammad Nabil
 Location : Indonesia 🇮🇩
 Role     : Full-Stack Developer
 OS       : Ubuntu
-Editor   : Neovim (dotfiles available)
+Editor   : Neovim
 Shell    : Zsh + Oh My Zsh
 Theme    : Catppuccin Mocha
 Status   : Open for new projects & opportunities
@@ -35,12 +35,12 @@ Status   : Open for new projects & opportunities
 
 ## What I do
 
-- Build **full-stack web applications** using various web technologies
-- Develop **REST APIs, backend services, and scalable web systems**
-- Work across **frontend (React / Next.js)** and **backend (Node.js / Go)**
-- Design and manage **relational databases (PostgreSQL)**
-- Containerize applications using **Docker**
-- Interested in **systems programming and low-level computing** e.g. C.
+- Build full-stack web applications using various web technologies
+- Develop REST APIs, backend services, and scalable web systems
+- Work across frontend (React / Next.js) and backend (Express.js / Go)
+- Design and manage relational databases (PostgreSQL)
+- Containerize applications using Docker
+- Interested in systems programming and low-level computing e.g. C.
 
 
 ## Featured Projects
@@ -59,8 +59,6 @@ Tech Stack: `Next.js` `Supabase` `Gemini API`<br />
 Taskify lets you organize and filters tasks & priorities in a kanban board. Useful for organizing tasks in any projects. Features include: drag & drop cards, labeling with colors, setup deadline with real-time notifications, filtering and sorting cards. <br/>
 Tech Stack: `Next.js` `Express.js`, `Supabase`<br />
 🔗 Repo: https://taskify-frontend-lilac.vercel.app <br />🌐 Demo: https://taskify-frontend-lilac.vercel.app
-
-
 
 
 ## Tech Stack
