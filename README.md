@@ -45,21 +45,20 @@ Status   : Open for new projects & opportunities
 
 ## Featured Projects
 
-- **Zip it - Free, Simple, and Fast URL Shortener for All**  
+- **Zip it - Free, Simple, and Fast URL Shortener for All** <br/>
 Zp.it (read: Zip it) is a free URL shortener that is meant to be used by anyone with public internet connection. It's free, fast, and simple to use, no sign in, no subscription required. Features: URL shortener, custom alias, QR Code generator, Click counter.
 Tech Stack: `HTMX` `Go` `SQLite` `Redis` `Docker`<br />
 🔗 Repo: https://github.com/mnabil1718/zp.it <br />🌐 Demo: https://zpit.up.railway.app
 
-- **Coach.ai - Personal AI Career Coach**
+- **Coach.ai - Personal AI Career Coach** <br/>
 Free LLM-powered career coaching web applications with features: AI-based instant resume review & feedback, Live interview Q&A simulation, and skill gaps analysis complete with learning roadmap and recommended resources to learn.
 Tech Stack: `Next.js` `Supabase` `Gemini API`<br />
 🔗 Repo: https://github.com/mnabil1718/coach <br />🌐 Demo: https://coach-eight-ashy.vercel.app
 
-- **Taskify - Free & Private Kanban Board**
+- **Taskify - Free & Private Kanban Board** <br/>
 Taskify lets you organize and filters tasks & priorities in a kanban board. Useful for organizing tasks in any projects. Features include: drag & drop cards, labeling with colors, setup deadline with real-time notifications, filtering and sorting cards. <br/>
-Tech Stack: `Next.js` `Express.js`, `Supabase` `Gemini API`<br />
-Built with Next.js, Express.js, and Supabase DB & Edge function.
-🔗 Repo: https://taskify-frontend-lilac.vercel.app <br />🌐 Demo: https://coach-eight-ashy.vercel.app
+Tech Stack: `Next.js` `Express.js`, `Supabase`<br />
+🔗 Repo: https://taskify-frontend-lilac.vercel.app <br />🌐 Demo: https://taskify-frontend-lilac.vercel.app
 
 
 
