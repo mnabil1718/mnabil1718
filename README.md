@@ -35,11 +35,11 @@ Status   : Open for new projects & opportunities
 
 ## `$ cat about.md`
 
-- 🔭 Building full-stack web projects
-- 🌱 Currently learning **C** and diving into low-level systems programming
-- 🧠 Fascinated by how computers *actually* work
-- 📝 Using **Neovim**, sometimes VSCode tho
-- 👯 Looking to collaborate on new challenging projects
+- Building full-stack web projects
+- Currently learning C and diving into low-level systems programming
+- Fascinated by how computers *actually* work
+- Using Neovim, sometimes VSCode tho
+- Looking to collaborate on new challenging projects
 
 
 
