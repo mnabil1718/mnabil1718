@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/JavaScript-CBA6F7?style=for-the-badge&logo=javascript&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/TypeScript-89B4FA?style=for-the-badge&logo=typescript&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-89DCEB?style=for-the-badge&logo=css3&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/SQL-F38BA8?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" />
 </div>
 
@@ -71,6 +70,7 @@
   <img src="https://img.shields.io/badge/Node.js-A6E3A1?style=for-the-badge&logo=node.js&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Express-CBA6F7?style=for-the-badge&logo=express&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/PostgreSQL-89B4FA?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" />
+    <img src="https://img.shields.io/badge/Echo-89B4FA?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" />
 </div>
 
 ### 🛠️ Tools & Environment
