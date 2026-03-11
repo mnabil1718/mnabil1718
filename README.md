@@ -35,11 +35,23 @@ Status   : Open for new projects & opportunities
 
 ## What I do
 
-- Building full-stack web projects
-- Currently learning C and diving into low-level systems programming
-- Fascinated by how computers *actually* work
-- Using Neovim, sometimes VSCode tho
-- Looking to collaborate on new challenging projects
+- Build **full-stack web applications** using various web technologies: Go, TypeScript, PostgreSQL, Next.js, and Docker
+- Develop **REST APIs, backend services, and scalable web systems**
+- Work across **frontend (React / Next.js)** and **backend (Node.js / Go)**
+- Design and manage **relational databases (PostgreSQL)**
+- Containerize applications using **Docker**
+- Interested in **systems programming and low-level computing** e.g. C.
+
+
+## Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**project-name-1**](https://github.com/mnabil1718/project-1) | Short description of what it does and why it matters | Go · PostgreSQL · React |
+| [**project-name-2**](https://github.com/mnabil1718/project-2) | Short description of what it does and why it matters | Next.js · Node.js · Docker |
+| [**project-name-3**](https://github.com/mnabil1718/project-3) | Short description of what it does and why it matters | TypeScript · Express · PostgreSQL |
+
+> 📌 *See pinned repositories below for live demos and full details.*
 
 
 
