@@ -70,7 +70,6 @@
   <img src="https://img.shields.io/badge/Node.js-A6E3A1?style=for-the-badge&logo=node.js&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Express-CBA6F7?style=for-the-badge&logo=express&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/PostgreSQL-89B4FA?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" />
-    <img src="https://img.shields.io/badge/Echo-89B4FA?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" />
 </div>
 
 ### 🛠️ Tools & Environment
@@ -89,12 +88,12 @@
 ## `$ gh stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&ring_color=cba6f7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnabil1718&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&ring_color=cba6f7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnabil1718&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=CBA6F7&fire=FAB387&currStreakLabel=CBA6F7" />
+  <img src="https://streak-stats.demolab.com?user=mnabil1718&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=CBA6F7&fire=FAB387&currStreakLabel=CBA6F7" />
 </div>
 
 ---
@@ -102,26 +101,13 @@
 ## `$ cat contribution-graph`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mnabil1718/mnabil1718/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-## `$ curl nabil.dev/now`
-```
-> Currently obsessing over:
-  ├── 📖 Reading: "Computer Systems: A Programmer's Perspective" (CS:APP)
-  ├── 🔧 Configuring: zsh + p10k (again)
-  ├── 🎨 Theme: Catppuccin Mocha (non-negotiable)
-  └── 🦀 Next target: Rust (after C, obviously)
-```
-
 ---
 
 <div align="center">
-  <i>
-    "Premature optimization is the root of all evil — but a well-configured Neovim setup is sacred."
-  </i>
-  <br/><br/>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20too%20many%20dotfiles-CBA6F7?style=for-the-badge&labelColor=1e1e2e" />
 </div>
