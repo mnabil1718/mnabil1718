@@ -54,7 +54,7 @@
 <div>
   <img src="https://img.shields.io/badge/JavaScript-CBA6F7?style=for-the-badge&logo=javascript&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/TypeScript-89B4FA?style=for-the-badge&logo=typescript&logoColor=1e1e2e" />
-    <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=typescript&logoColor=00ADD8" />
+    <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=typescript&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/CSS3-89DCEB?style=for-the-badge&logo=css3&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/SQL-F38BA8?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" />
 </div>
