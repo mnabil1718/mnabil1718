@@ -101,11 +101,7 @@
 ## `$ cat contribution-graph`
 
 <div align="center">
-  <img src="https://ghcal.vercel.app/mnabil1718" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mnabil1718/mnabil1718/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnabil1718&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=fab387&area=true&area_color=cba6f7&hide_border=true" />
 </div>
 
 ---
