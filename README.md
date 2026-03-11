@@ -35,7 +35,7 @@ Status   : Open for new projects & opportunities
 
 ## What I do
 
-- Build **full-stack web applications** using various web technologies: Go, TypeScript, PostgreSQL, Next.js, and Docker
+- Build **full-stack web applications** using various web technologies
 - Develop **REST APIs, backend services, and scalable web systems**
 - Work across **frontend (React / Next.js)** and **backend (Node.js / Go)**
 - Design and manage **relational databases (PostgreSQL)**
