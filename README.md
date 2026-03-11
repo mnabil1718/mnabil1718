@@ -50,7 +50,7 @@ Zp.it (read: Zip it) is a free URL shortener that is meant to be used by anyone 
 
 Tech Stack: `HTMX` `Go` `SQLite` `Redis` `Docker`
 
-🔗 Repo: https://github.com/mnabil1718/zp.it
+🔗 Repo: https://github.com/mnabil1718/zp.it <br />
 🌐 Demo: https://zpit.up.railway.app
 
 
