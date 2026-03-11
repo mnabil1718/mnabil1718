@@ -10,17 +10,13 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%8C%8D;Linux+%26+Terminal+Enjoyer+%F0%9F%90%A7;Neovim+%3E+Everything+%E2%9C%8C%EF%B8%8F;Currently+learning+C+%F0%9F%A6%BE;Building+from+the+terminal%2C+always." alt="Typing SVG" />
-</div>
-
 <br/>
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=cba6f7&labelColor=1e1e2e&logo=github" />
+  <a href="https://github.com/mnabil1718">
+    <img src="https://img.shields.io/github/followers/mnabil1718?label=Followers&style=for-the-badge&color=cba6f7&labelColor=1e1e2e&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=cba6f7&labelColor=1e1e2e&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=mnabil1718&style=for-the-badge&color=cba6f7&labelColor=1e1e2e&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-a6e3a1?style=for-the-badge&labelColor=1e1e2e" />
 </div>
 
@@ -32,11 +28,11 @@
   "name"     : "Muhammad Nabil",
   "location" : "Indonesia 🇮🇩",
   "role"     : "Full-Stack Developer",
-  "os"       : "Ubuntu (btw)",
-  "editor"   : "Neovim (with Catppuccin, obviously)",
-  "shell"    : "zsh (heavily configured)",
-  "theme"    : "Catppuccin Mocha — always and forever",
-  "status"   : "Probably editing my dotfiles right now"
+  "os"       : "Ubuntu",
+  "editor"   : "Neovim (dotfile available)",
+  "shell"    : "Z Shell (Oh My Zsh)",
+  "theme"    : "Catppuccin Mocha",
+  "status"   : "Open for new projects & opportunity"
 }
 ```
 
@@ -44,13 +40,11 @@
 
 ## `$ cat about.md`
 
-- 🔭 Building full-stack web projects by day, reading kernel source by night
+- 🔭 Building full-stack web projects
 - 🌱 Currently learning **C** and diving into low-level systems programming
-- 🧠 Fascinated by **Linux internals**, memory management, and how things *actually* work
-- 🐧 Ubuntu daily driver — I've configured my `.zshrc` more times than I've shipped features
-- 📝 **Neovim** is my IDE, my therapist, and my personality
-- 👯 Looking to collaborate on **open source** projects
-- ⚡ Fun fact: If it can't be done in the terminal, is it worth doing?
+- 🧠 Fascinated by how computers *actually* work
+- 📝 Using **Neovim**, sometimes VSCode tho
+- 👯 Looking to collaborate on new challenging projects
 
 ---
 
@@ -60,8 +54,7 @@
 <div>
   <img src="https://img.shields.io/badge/JavaScript-CBA6F7?style=for-the-badge&logo=javascript&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/TypeScript-89B4FA?style=for-the-badge&logo=typescript&logoColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/C-A6E3A1?style=for-the-badge&logo=c&logoColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/HTML5-FAB387?style=for-the-badge&logo=html5&logoColor=1e1e2e" />
+    <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=typescript&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/CSS3-89DCEB?style=for-the-badge&logo=css3&logoColor=1e1e2e" />
   <img src="https://img.shields.io/badge/SQL-F38BA8?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" />
 </div>
