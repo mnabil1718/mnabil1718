@@ -45,13 +45,13 @@ Status   : Open for new projects & opportunities
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**project-name-1**](https://github.com/mnabil1718/project-1) | Short description of what it does and why it matters | Go · PostgreSQL · React |
-| [**project-name-2**](https://github.com/mnabil1718/project-2) | Short description of what it does and why it matters | Next.js · Node.js · Docker |
-| [**project-name-3**](https://github.com/mnabil1718/project-3) | Short description of what it does and why it matters | TypeScript · Express · PostgreSQL |
+**Zip it - Free, Simple, and Fast URL Shortener for All**  
+Zp.it (read: Zip it) is a free URL shortener that is meant to be used by anyone with public internet connection. It's free, fast, and simple to use, no sign in, no subscription required. Features: URL shortener, custom alias, QR Code generator, Click counter.
 
-> 📌 *See pinned repositories below for live demos and full details.*
+Tech Stack: `HTMX` `Go` `SQLite` `Redis` `Docker`
+
+🔗 Repo: https://github.com/mnabil1718/zp.it
+🌐 Demo: https://zpit.up.railway.app
 
 
 
