@@ -24,16 +24,14 @@
 
 ## `$ whoami`
 ```bash
-{
-  "name"     : "Muhammad Nabil",
-  "location" : "Indonesia 🇮🇩",
-  "role"     : "Full-Stack Developer",
-  "os"       : "Ubuntu",
-  "editor"   : "Neovim (dotfile available)",
-  "shell"    : "Z Shell (Oh My Zsh)",
-  "theme"    : "Catppuccin Mocha",
-  "status"   : "Open for new projects & opportunity"
-}
+Name     : Muhammad Nabil
+Location : Indonesia 🇮🇩
+Role     : Full-Stack Developer
+OS       : Ubuntu
+Editor   : Neovim (dotfiles available)
+Shell    : Zsh + Oh My Zsh
+Theme    : Catppuccin Mocha
+Status   : Open for new projects & opportunities
 ```
 
 ---
