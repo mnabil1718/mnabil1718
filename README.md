@@ -47,11 +47,11 @@ Status   : Open for new projects & opportunities
 
 - **Zip it - Free, Simple, and Fast URL Shortener for All**  
 Zp.it (read: Zip it) is a free URL shortener that is meant to be used by anyone with public internet connection. It's free, fast, and simple to use, no sign in, no subscription required. Features: URL shortener, custom alias, QR Code generator, Click counter.
-
 Tech Stack: `HTMX` `Go` `SQLite` `Redis` `Docker`
+🔗 Repo: https://github.com/mnabil1718/zp.it <br />🌐 Demo: https://zpit.up.railway.app
 
-🔗 Repo: https://github.com/mnabil1718/zp.it <br />
-🌐 Demo: https://zpit.up.railway.app
+- **Coach.ai - Personal AI Career Coach**
+  
 
 
 
