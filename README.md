@@ -58,7 +58,7 @@ Tech Stack: `Next.js` `Supabase` `Gemini API`<br />
 - **Taskify - Free & Private Kanban Board** <br/>
 Taskify lets you organize and filters tasks & priorities in a kanban board. Useful for organizing tasks in any projects. Features include: drag & drop cards, labeling with colors, setup deadline with real-time notifications, filtering and sorting cards. <br/>
 Tech Stack: `Next.js` `Express.js`, `Supabase`<br />
-🔗 Repo: https://taskify-frontend-lilac.vercel.app <br />🌐 Demo: https://taskify-frontend-lilac.vercel.app
+🔗 Repo: https://github.com/Riza-FP/taskify <br />🌐 Demo: https://taskify-frontend-lilac.vercel.app
 
 
 ## Tech Stack
