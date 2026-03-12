@@ -35,7 +35,7 @@ Status   : Open for new projects & opportunities
 
 ## What I do
 
-- Build full-stack web applications using various web technologies
+- Building scalable full-stack web applications using Go, TypeScript, Next.js, and PostgreSQL
 - Develop REST APIs, backend services, and scalable web systems
 - Work across frontend (React / Next.js) and backend (Express.js / Go)
 - Design and manage relational databases (PostgreSQL)
@@ -48,12 +48,12 @@ Status   : Open for new projects & opportunities
 - **Zip it - Free, Simple, and Fast URL Shortener for All** <br/>
 Zp.it (read: Zip it) is a free URL shortener that is meant to be used by anyone with public internet connection. It's free, fast, and simple to use, no sign in, no subscription required. Features: URL shortener, custom alias, QR Code generator, Click counter.
 Tech Stack: `HTMX` `Go` `SQLite` `Redis` `Docker`<br />
-🔗 Repo: https://github.com/mnabil1718/zp.it <br />🌐 Demo: https://zpit.up.railway.app
+🔗 Repo: https://github.com/mnabil1718/zpit-url-shortener <br />🌐 Demo: https://zpit.up.railway.app
 
 - **Coach.ai - Personal AI Career Coach** <br/>
 Free LLM-powered career coaching web applications with features: AI-based instant resume review & feedback, Live interview Q&A simulation, and skill gaps analysis complete with learning roadmap and recommended resources to learn.
 Tech Stack: `Next.js` `Supabase` `Gemini API`<br />
-🔗 Repo: https://github.com/mnabil1718/coach <br />🌐 Demo: https://coach-eight-ashy.vercel.app
+🔗 Repo: https://github.com/mnabil1718/coach-ai-career-advisor <br />🌐 Demo: https://coach-eight-ashy.vercel.app
 
 - **Taskify - Free & Private Kanban Board** <br/>
 Taskify lets you organize and filters tasks & priorities in a kanban board. Useful for organizing tasks in any projects. Features include: drag & drop cards, labeling with colors, setup deadline with real-time notifications, filtering and sorting cards. <br/>
